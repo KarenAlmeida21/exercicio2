@@ -16,3 +16,8 @@ cd "todosestados"
 md "regiao sul"
 cd "regiao sul"
 md "parana" "santa catarina" "rio grande do sul"
+cd..
+cd "todosestados"
+md "regiao suldeste"
+cd "região suldeste"
+md "sao paulo" "minas gerais" "espirito santo" "rio de janeiro"
