@@ -11,3 +11,8 @@ cd "todosestados"
 md "norte"
 cd "norte"
 md "acre" "amapa" "amazonas" "para" "rondonia" "roraima" "tocantins"
+cd..
+cd "todosestados"
+md "regiao sul"
+cd "regiao sul"
+md "parana" "santa catarina" "rio grande do sul"
