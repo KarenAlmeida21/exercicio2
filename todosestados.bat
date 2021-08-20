@@ -6,3 +6,8 @@ cd..
 md "nordeste"
 cd "nordeste"
 md "alagoas" "bahia" "cera" "maranhão" "Paraiba" "Piaiu" "Pernanbuco" "rio grande do norte" "sergipe"
+cd..
+cd "todosestados"
+md "norte"
+cd "norte"
+md "acre" "amapa" "amazonas" "para" "rondonia" "roraima" "tocantins"
